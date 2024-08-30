@@ -9,4 +9,5 @@ $hewan_baru ->merk = "<br>sumatra";
 $hewan_baru ->model = "<br>kalimantan";
 
 var_dump($hewan_baru);
+echo"<br><br><br><strong>by si bray ilhammm";
 ?>

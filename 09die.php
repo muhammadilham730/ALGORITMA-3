@@ -22,4 +22,5 @@ echo "Ini adalah output buffer.";
 if ($error) {
     ob_end_clean(); // bersihkan output buffer
     die("Skrip dihentikan karena error.");
+    echo"<br><br><br><strong>by si bray ilhammm";
 }

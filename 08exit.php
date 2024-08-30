@@ -6,3 +6,4 @@ echo 'ini tidak akan tampil di browser.';
 exit(1);
 //jika tidak ada error
 exit(0);
+echo"<br><br><br><strong>by si bray ilhammm";
