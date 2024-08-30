@@ -39,6 +39,6 @@ if($umur > 18){
     echo "<br>Maaf website ini hanya untuk yang sudah berumur 18+";
 }
 
-print_r("<p><strong><i>By Meylisa eka putry</strong>");
+print_r("<p><strong><i>By Muhammad ilham/strong>");
 
 ?>

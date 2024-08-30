@@ -5,4 +5,4 @@ if ($nilai > 70) {
   echo "Selamat, kamu lulus!";
 }
 
-print_r("<p><strong><i>By Meylisa eka putry</strong>");
+print_r("<p><strong><i>By muhammad ilham</strong>");
