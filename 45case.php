@@ -20,4 +20,4 @@ switch($level){
         echo "Kamu bukan programmer!";
 }
 
-print_r("<p><strong><i>By Meylisa eka putry</strong>");
+print_r("<p><strong><i>By Muhammad ilham</strong>");
